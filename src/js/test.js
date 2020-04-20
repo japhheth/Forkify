@@ -1,2 +1,2 @@
 console.log('i am working')
-export default 190;
+export default 300;

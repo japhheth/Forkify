@@ -19,8 +19,11 @@
   },
   "homepage": "https://github.com/japhheth/Forkify#readme",
   "devDependencies": {
-    "webpack": "^4.2.0",
-    "webpack-cli": "^2.0.12",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.1.1"
+  },
+  "dependencies": {
+    
   }
 }
